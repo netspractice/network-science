@@ -1,0 +1,195 @@
+id,line_name,station_name,station_type,delay_morning,delay_rush,delay_night,lat,lon
+0,Sokolnicheskaya,Bulvar Rokossovskogo,deadend,120,90,360,55.81426884,37.73511681
+1,Sokolnicheskaya,Cherkizovskaya,pass,120,90,360,55.80299055,37.74482527
+2,Sokolnicheskaya,Preobrazhenskaya ploschad,pass,120,90,360,55.79617167,37.71502233
+3,Sokolnicheskaya,Sokolniki,pass,120,90,360,55.78920017,37.67970569
+4,Sokolnicheskaya,Krasnoselskaya,pass,120,90,360,55.7798531,37.66607717
+5,Sokolnicheskaya,Komsomolskaya,cross,120,90,360,55.77461681,37.65606048
+6,Sokolnicheskaya,Krasnye vorota,pass,120,90,360,55.76879536,37.64889473
+7,Sokolnicheskaya,Chistye prudy,cross,120,90,360,55.76479568,37.63869126
+8,Sokolnicheskaya,Lubyanka,cross,120,90,360,55.75916377,37.62734802
+9,Sokolnicheskaya,Ohotny ryad,cross,120,90,360,55.75656182,37.61586432
+10,Sokolnicheskaya,Biblioteka imeni Lenina,cross,120,90,360,55.751001,37.609829
+11,Sokolnicheskaya,Kropotkinskaya,pass,120,90,360,55.74507272,37.60348783
+12,Sokolnicheskaya,Park kultury,cross,120,90,360,55.73608189,37.59506679
+13,Sokolnicheskaya,Frunzenskaya,pass,120,90,360,55.725832999999994,37.578610999999995
+14,Sokolnicheskaya,Sportivnaya,pass,120,90,360,55.72276444,37.56223301
+15,Sokolnicheskaya,Vorobevy gory,pass,120,90,360,55.71043947,37.55932446
+16,Sokolnicheskaya,Universitet,pass,120,90,360,55.69244031,37.53453277
+17,Sokolnicheskaya,Prospekt Vernadskogo,pass,120,90,360,55.67691481,37.50583785
+18,Sokolnicheskaya,Yugo-Zapadnaya,deadend,120,90,360,55.66314765,37.48285221
+19,Zamoskvoretskaya,Rechnoy vokzal,deadend,120,120,360,55.85489117,37.4762329
+20,Zamoskvoretskaya,Vodny stadion,pass,120,120,360,55.84020993,37.48661929
+21,Zamoskvoretskaya,Voykovskaya,pass,120,120,360,55.81892571,37.49779693
+22,Zamoskvoretskaya,Sokol,pass,120,120,360,55.80504488,37.51479324
+23,Zamoskvoretskaya,Aeroport,pass,120,120,360,55.80026391,37.53287747
+24,Zamoskvoretskaya,Dinamo,pass,120,120,360,55.7897066,37.55821352
+25,Zamoskvoretskaya,Belorusskaya,cross,120,120,360,55.77744225,37.58211107
+26,Zamoskvoretskaya,Mayakovskaya,pass,120,120,360,55.76980997,37.59620107
+27,Zamoskvoretskaya,Tverskaya,cross,120,120,360,55.76467033,37.60549807
+28,Zamoskvoretskaya,Teatralnaya,cross,120,120,360,55.75751049,37.61873136
+29,Zamoskvoretskaya,Novokuznetskaya,cross,120,120,360,55.74227653,37.62913207
+30,Zamoskvoretskaya,Paveletskaya,cross,120,120,360,55.72973923,37.63966675
+31,Zamoskvoretskaya,Avtozavodskaya,pass,120,120,360,55.70663519,37.65701484
+32,Zamoskvoretskaya,Kolomenskaya,pass,120,120,360,55.67742563,37.66372594
+33,Zamoskvoretskaya,Kashirskaya,cross,120,120,360,55.65543547,37.64926008
+34,Zamoskvoretskaya,Kantemirovskaya,pass,120,120,360,55.63610779,37.656218100000004
+35,Zamoskvoretskaya,Tsaritsyno,pass,120,120,360,55.62098675,37.66961731
+36,Zamoskvoretskaya,Orehovo,pass,120,120,360,55.61269148,37.69521582
+37,Zamoskvoretskaya,Domodedovskaya,pass,120,120,360,55.61069798,37.71790918
+38,Zamoskvoretskaya,Krasnogvardeyskaya,cross,120,120,360,55.61407477,37.74632584
+39,Zamoskvoretskaya,Alma-Atinskaya,deadend,120,120,360,55.633492878199995,37.7656817209
+40,Arbatsko-Pokrovskaya,Schelkovskaya,deadend,180,120,300,55.81023076,37.79855742
+41,Arbatsko-Pokrovskaya,Pervomayskaya,pass,180,120,300,55.79437694,37.79936965
+42,Arbatsko-Pokrovskaya,Izmaylovskaya,pass,180,120,300,55.78775046,37.78139487
+43,Arbatsko-Pokrovskaya,Partizanskaya,pass,180,120,300,55.78842836,37.74927274
+44,Arbatsko-Pokrovskaya,Semenovskaya,pass,180,120,300,55.78319914,37.71942378
+45,Arbatsko-Pokrovskaya,Elektrozavodskaya,pass,180,120,300,55.78206877,37.70529043
+46,Arbatsko-Pokrovskaya,Baumanskaya,pass,180,120,300,55.77240873,37.67904246
+47,Arbatsko-Pokrovskaya,Kurskaya,cross,180,120,300,55.75858121,37.65953629
+48,Arbatsko-Pokrovskaya,Ploschad Revolyutsii,cross,180,120,300,55.75636357,37.6202934
+49,Arbatsko-Pokrovskaya,Arbatskaya,cross,180,120,300,55.75251973,37.60411821
+50,Arbatsko-Pokrovskaya,Smolenskaya,pass,180,120,300,55.74764546,37.58384381
+51,Arbatsko-Pokrovskaya,Kievskaya,cross,180,120,300,55.74341733,37.56519435
+52,Arbatsko-Pokrovskaya,Park Pobedy,pass,180,120,300,55.73616823,37.51692555
+53,Arbatsko-Pokrovskaya,Slavyanskiy bulvar,pass,180,120,300,55.72982926,37.47217245
+54,Arbatsko-Pokrovskaya,Kuntsevskaya,cross,180,120,300,55.73063636,37.44512814
+55,Arbatsko-Pokrovskaya,Molodezhnaya,pass,180,120,300,55.74100658,37.41639225
+56,Arbatsko-Pokrovskaya,Krylatskoe,pass,180,120,300,55.75684456,37.40814178
+57,Arbatsko-Pokrovskaya,Strogino,pass,180,120,300,55.80369596,37.40311768
+58,Arbatsko-Pokrovskaya,Myakinino,pass,180,120,300,55.82399222,37.38475116
+59,Arbatsko-Pokrovskaya,Volokolamskaya,pass,180,120,300,55.83550999,37.38203968
+60,Arbatsko-Pokrovskaya,Mitino,pass,180,120,300,55.84610897,37.36120249
+61,Arbatsko-Pokrovskaya,Pyatnitskoe shosse,deadend,180,120,300,55.8556450861,37.3540312818
+62,Filevskaya,Kuntsevskaya,cross,180,120,300,55.73087794,37.44688137
+63,Filevskaya,Pionerskaya,pass,180,120,300,55.73599081,37.46708385
+64,Filevskaya,Filevskiy park,pass,180,120,300,55.73952139,37.48333178
+65,Filevskaya,Bagrationovskaya,pass,180,120,300,55.74380298,37.49786669
+66,Filevskaya,Fili,pass,180,120,300,55.74597206,37.51495593
+67,Filevskaya,Kutuzovskaya,pass,180,120,300,55.74018088,37.53423678
+68,Filevskaya,Studencheskaya,pass,180,120,300,55.73878528,37.54837734
+69,Filevskaya,Kievskaya,cross,180,120,360,55.74459377,37.5674742
+70,Filevskaya,Smolenskaya,pass,180,120,300,55.74906294,37.58166282
+71,Filevskaya,Arbatskaya,pass,180,120,300,55.75212223,37.60161843
+72,Filevskaya,Aleksandrovskiy sad,cross,180,120,300,55.75208102,37.60931633
+73,Filevskaya,Vystavochnaya,pass,180,120,360,55.74954815,37.54302698
+74,Filevskaya,Mezhdunarodnaya,deadend,180,120,360,55.74864243,37.53304491
+75,Koltsevaya,Park kultury,cross,120,60,300,55.7351099674,37.5931199633
+76,Koltsevaya,Oktyabrskaya,cross,120,60,300,55.72925801,37.61097978
+77,Koltsevaya,Dobryninskaya,cross,120,60,300,55.72901472,37.62271768
+78,Koltsevaya,Paveletskaya,cross,120,60,300,55.73153622,37.63632957
+79,Koltsevaya,Taganskaya,cross,120,60,300,55.74240035,37.65336774
+80,Koltsevaya,Kurskaya,cross,120,60,300,55.75743692,37.65993665
+81,Koltsevaya,Komsomolskaya,cross,120,60,300,55.77615544,37.65631214
+82,Koltsevaya,Prospekt Mira,cross,120,60,300,55.77963403,37.63347013
+83,Koltsevaya,Novoslobodskaya,cross,120,60,300,55.77956602,37.60142218
+84,Koltsevaya,Belorusskaya,cross,120,60,300,55.77717,37.586194
+85,Koltsevaya,Krasnopresnenskaya,cross,120,60,300,55.76021361,37.57721901
+86,Koltsevaya,Kievskaya,cross,120,60,300,55.7439944,37.56658714
+87,Kaluzhsko-Rizhskaya,Medvedkovo,deadend,120,90,360,55.8875175612,37.661553248800004
+88,Kaluzhsko-Rizhskaya,Babushkinskaya,pass,120,90,360,55.86979772,37.66458885
+89,Kaluzhsko-Rizhskaya,Sviblovo,pass,120,90,360,55.85556128,37.65338028
+90,Kaluzhsko-Rizhskaya,Botanicheskiy sad,pass,120,90,360,55.84459993,37.63781464
+91,Kaluzhsko-Rizhskaya,VDNH,cross,120,90,360,55.82140444,37.64109489
+92,Kaluzhsko-Rizhskaya,Alekseevskaya,pass,120,90,360,55.80780156,37.63873949
+93,Kaluzhsko-Rizhskaya,Rizhskaya,pass,120,90,360,55.79251434,37.63612873
+94,Kaluzhsko-Rizhskaya,Prospekt Mira,cross,120,90,360,55.78176203,37.63348308
+95,Kaluzhsko-Rizhskaya,Suharevskaya,pass,120,90,360,55.77231841,37.63233177
+96,Kaluzhsko-Rizhskaya,Turgenevskaya,cross,120,90,360,55.7654267,37.63708275
+97,Kaluzhsko-Rizhskaya,Kitay-gorod,cross,120,90,360,55.75650204,37.63132629
+98,Kaluzhsko-Rizhskaya,Tretyakovskaya,cross,120,90,360,55.74036385,37.62583636
+99,Kaluzhsko-Rizhskaya,Oktyabrskaya,cross,120,90,360,55.73126014,37.61277116
+100,Kaluzhsko-Rizhskaya,Shabolovskaya,pass,120,90,360,55.71882329,37.6078018
+101,Kaluzhsko-Rizhskaya,Leninskiy prospekt,pass,120,90,360,55.70768993,37.58624321
+102,Kaluzhsko-Rizhskaya,Akademicheskaya,pass,120,90,360,55.68766161,37.57334722
+103,Kaluzhsko-Rizhskaya,Profsoyuznaya,pass,120,90,360,55.67767507,37.56259727
+104,Kaluzhsko-Rizhskaya,Novye Cheremushki,pass,120,90,360,55.67007819,37.55449438
+105,Kaluzhsko-Rizhskaya,Kaluzhskaya,pass,120,90,360,55.65668319,37.54007713
+106,Kaluzhsko-Rizhskaya,Belyaevo,pass,120,90,360,55.64235707,37.52611914
+107,Kaluzhsko-Rizhskaya,Konkovo,pass,120,90,360,55.63365836,37.52003234
+108,Kaluzhsko-Rizhskaya,Teply Stan,pass,120,90,360,55.61873174,37.50591595
+109,Kaluzhsko-Rizhskaya,Yasenevo,pass,120,90,360,55.60618422,37.53340344
+110,Kaluzhsko-Rizhskaya,Novoyasenevskaya,deadend,120,90,360,55.60165876,37.55305003
+111,Tagansko-Krasnopresnenskaya,Planernaya,deadend,180,60,300,55.86053072,37.43638746
+112,Tagansko-Krasnopresnenskaya,Shodnenskaya,pass,180,60,300,55.85051329,37.43979226
+113,Tagansko-Krasnopresnenskaya,Tushinskaya,pass,180,60,300,55.82719858270001,37.4375545979
+114,Tagansko-Krasnopresnenskaya,Schukinskaya,pass,180,60,300,55.80882939,37.4637723
+115,Tagansko-Krasnopresnenskaya,Oktyabrskoe pole,pass,180,60,300,55.79358456,37.49332533
+116,Tagansko-Krasnopresnenskaya,Polezhaevskaya,pass,180,60,300,55.7772012,37.51789787
+117,Tagansko-Krasnopresnenskaya,Begovaya,pass,180,60,300,55.77352447,37.54547852
+118,Tagansko-Krasnopresnenskaya,Ulitsa 1905 goda,pass,180,60,300,55.76427763,37.56142656
+119,Tagansko-Krasnopresnenskaya,Barrikadnaya,cross,180,60,300,55.76081979,37.58128349
+120,Tagansko-Krasnopresnenskaya,Pushkinskaya,cross,180,60,300,55.76536454,37.60411967
+121,Tagansko-Krasnopresnenskaya,Kuznetskiy most,cross,180,60,300,55.7615036,37.62452915
+122,Tagansko-Krasnopresnenskaya,Kitay-gorod,cross,180,60,300,55.75436265,37.63388379
+123,Tagansko-Krasnopresnenskaya,Taganskaya,cross,180,60,300,55.73944994,37.65321795
+124,Tagansko-Krasnopresnenskaya,Proletarskaya,cross,180,60,300,55.73160641,37.66679603
+125,Tagansko-Krasnopresnenskaya,Volgogradskiy prospekt,pass,180,60,300,55.72490383,37.68710324
+126,Tagansko-Krasnopresnenskaya,Tekstilschiki,pass,180,60,300,55.70921298,37.73212555
+127,Tagansko-Krasnopresnenskaya,Kuzminki,pass,180,60,300,55.70542146,37.76590981
+128,Tagansko-Krasnopresnenskaya,Ryazanskiy prospekt,pass,180,60,300,55.71737044,37.79361319
+129,Tagansko-Krasnopresnenskaya,Vyhino,deadend,180,60,300,55.71568577,37.81797661
+130,Kalininskaya,Novokosino,deadend,180,120,360,55.745284999999996,37.863911
+131,Kalininskaya,Novogireevo,pass,180,120,360,55.75167956,37.8172959
+132,Kalininskaya,Perovo,pass,180,120,360,55.7513209,37.78688986
+133,Kalininskaya,Shosse Entuziastov,pass,180,120,360,55.75826015,37.75159148
+134,Kalininskaya,Aviamotornaya,pass,180,120,360,55.75143572,37.71662077
+135,Kalininskaya,Ploschad Ilicha,cross,180,120,360,55.74702673,37.68059272
+136,Kalininskaya,Marksistskaya,cross,180,120,360,55.74117285,37.65643238
+137,Kalininskaya,Tretyakovskaya,cross,180,120,360,55.74115864,37.62615165
+138,Serpuhovsko-Timiryazevskaya,Altufevo,deadend,180,120,360,55.89837858,37.58734759
+139,Serpuhovsko-Timiryazevskaya,Bibirevo,pass,180,120,360,55.88387233,37.60301886
+140,Serpuhovsko-Timiryazevskaya,Otradnoe,pass,180,120,360,55.86338692,37.60485051
+141,Serpuhovsko-Timiryazevskaya,Vladykino,pass,180,120,360,55.8479236,37.59028702
+142,Serpuhovsko-Timiryazevskaya,Petrovsko-Razumovskaya,pass,180,120,360,55.83652784,37.57556018
+143,Serpuhovsko-Timiryazevskaya,Timiryazevskaya,cross,180,120,360,55.81888676,37.57539342
+144,Serpuhovsko-Timiryazevskaya,Dmitrovskaya,pass,180,120,360,55.80788532,37.58083808
+145,Serpuhovsko-Timiryazevskaya,Savelovskaya,pass,180,120,360,55.7933149554,37.5883002308
+146,Serpuhovsko-Timiryazevskaya,Mendeleevskaya,cross,180,120,360,55.78179021,37.59874023
+147,Serpuhovsko-Timiryazevskaya,Tsvetnoy bulvar,cross,180,120,360,55.77161699,37.62099354
+148,Serpuhovsko-Timiryazevskaya,Chehovskaya,cross,180,120,360,55.76584498,37.60817117
+149,Serpuhovsko-Timiryazevskaya,Borovitskaya,cross,180,120,360,55.7505055,37.60918057
+150,Serpuhovsko-Timiryazevskaya,Polyanka,pass,180,120,360,55.7368093,37.61847144
+151,Serpuhovsko-Timiryazevskaya,Serpuhovskaya,cross,180,120,360,55.72668445,37.62520674
+152,Serpuhovsko-Timiryazevskaya,Tulskaya,pass,180,120,360,55.70884317,37.62261754
+153,Serpuhovsko-Timiryazevskaya,Nagatinskaya,pass,180,120,360,55.6829922,37.62247107
+154,Serpuhovsko-Timiryazevskaya,Nagornaya,pass,180,120,360,55.67285749,37.61074686
+155,Serpuhovsko-Timiryazevskaya,Nahimovskiy prospekt,pass,180,120,360,55.66237962,37.60527487
+156,Serpuhovsko-Timiryazevskaya,Sevastopolskaya,cross,180,120,360,55.65155219,37.59838991
+157,Serpuhovsko-Timiryazevskaya,Chertanovskaya,pass,180,120,360,55.64054104,37.60607344
+158,Serpuhovsko-Timiryazevskaya,Yuzhnaya,pass,180,120,360,55.62243809,37.60905563
+159,Serpuhovsko-Timiryazevskaya,Prazhskaya,pass,180,120,360,55.61157892,37.60397284
+160,Serpuhovsko-Timiryazevskaya,Ulitsa Akademika Yangelya,pass,180,120,360,55.59588504,37.60067778
+161,Serpuhovsko-Timiryazevskaya,Annino,pass,180,120,360,55.58365994,37.59681856
+162,Serpuhovsko-Timiryazevskaya,Bulvar Dmitriya Donskogo,cross,180,120,360,55.56967178,37.57735225
+163,Lyublinsko-Dmitrovskaya,Marina roscha,deadend,120,120,360,55.793723531800005,37.6161814542
+164,Lyublinsko-Dmitrovskaya,Dostoevskaya,pass,120,120,360,55.78148709,37.61472199
+165,Lyublinsko-Dmitrovskaya,Trubnaya,cross,120,120,360,55.76794044,37.62190265
+166,Lyublinsko-Dmitrovskaya,Sretenskiy bulvar,cross,120,120,360,55.7659507,37.63582203
+167,Lyublinsko-Dmitrovskaya,Chkalovskaya,cross,120,120,360,55.75594472,37.65923753
+168,Lyublinsko-Dmitrovskaya,Rimskaya,cross,120,120,360,55.74623168,37.6812597
+169,Lyublinsko-Dmitrovskaya,Krestyanskaya zastava,cross,120,120,360,55.73246481,37.6647883
+170,Lyublinsko-Dmitrovskaya,Dubrovka,pass,120,120,360,55.71807402,37.67626655
+171,Lyublinsko-Dmitrovskaya,Kozhuhovskaya,pass,120,120,360,55.70632105,37.68570967
+172,Lyublinsko-Dmitrovskaya,Pechatniki,pass,120,120,360,55.69297728,37.72840065
+173,Lyublinsko-Dmitrovskaya,Volzhskaya,pass,120,120,360,55.69044997,37.7543156
+174,Lyublinsko-Dmitrovskaya,Lyublino,pass,120,120,360,55.6762412954,37.761836014699995
+175,Lyublinsko-Dmitrovskaya,Bratislavskaya,pass,120,120,360,55.65945973,37.75052238
+176,Lyublinsko-Dmitrovskaya,Marino,pass,120,120,360,55.64936925,37.74412265
+177,Lyublinsko-Dmitrovskaya,Borisovo,pass,120,120,360,55.633587974300006,37.7438352432
+178,Lyublinsko-Dmitrovskaya,Shipilovskaya,pass,120,120,360,55.6209844558,37.743725802
+179,Lyublinsko-Dmitrovskaya,Zyablikovo,cross,120,120,360,55.612333654,37.7452086581
+180,Kahovskaya,Kashirskaya,cross,300,180,600,55.65468419,37.64820746
+181,Kahovskaya,Varshavskaya,pass,300,180,600,55.65329443,37.61952303
+182,Kahovskaya,Kahovskaya,cross,300,180,600,55.65317993,37.59823255
+183,Butovskaya,Ulitsa Starokachalovskaya,cross,240,240,360,55.56883811,37.57671177
+184,Butovskaya,Ulitsa Skobelevskaya,pass,240,240,360,55.54803532,37.55462081
+185,Butovskaya,Bulvar Admirala Ushakova,pass,240,240,360,55.54520839,37.54233832
+186,Butovskaya,Ulitsa Gorchakova,pass,240,240,360,55.54182875,37.53123412
+187,Butovskaya,Buninskaya alleya,deadend,240,240,360,55.53796703,37.51592468
+188,Monorels,Timiryazevskaya,cross,540,420,600,55.81894945,37.57861369
+189,Monorels,Ulitsa Milashenkova,pass,540,420,600,55.821876399999994,37.5912115
+190,Monorels,Teletsentr,pass,540,420,600,55.82179898,37.60898217
+191,Monorels,Ulitsa akademika Koroleva,pass,540,420,600,55.82182516,37.62716909
+192,Monorels,Vystavochny tsentr,cross,540,420,600,55.82408922,37.63850256
+193,Monorels,Ulitsa Sergeya Eyzenshteyna,deadend,540,420,600,55.82930753,37.64499978
