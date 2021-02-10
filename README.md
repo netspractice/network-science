@@ -11,6 +11,7 @@ Topics:
 2. [Power Law and Scale-free Networks](assignment_power_law)
 3. [Random Networks](assignment_random_networks)
 4. [Generative Network Models](assignment_generative_network_models)
+5. [Centrality Measures](assignment_centrality_measures)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
