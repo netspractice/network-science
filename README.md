@@ -12,7 +12,7 @@ Topics:
 3. [Random Networks](assignment_random_networks)
 4. [Generative Network Models](assignment_generative_network_models)
 5. [Centrality Measures](assignment_centrality_measures)
-6. [Links analysis and structure](assignment_link_structure)
+6. [Links Analysis and Structure](assignment_link_structure)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
