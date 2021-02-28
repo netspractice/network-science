@@ -13,6 +13,7 @@ Topics:
 4. [Generative Network Models](assignment_generative_network_models)
 5. [Centrality Measures](assignment_centrality_measures)
 6. [Links Analysis and Structure](assignment_link_structure)
+7. [Community Detection](assignment_communities)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
