@@ -14,6 +14,7 @@ Topics:
 5. [Centrality Measures](assignment_centrality_measures)
 6. [Links Analysis and Structure](assignment_link_structure)
 7. [Community Detection](assignment_communities)
+8. [Community Detection, part 2](assignment_communities_2)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
