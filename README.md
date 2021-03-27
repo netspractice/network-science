@@ -16,6 +16,7 @@ Topics:
 7. [Community Detection](assignment_communities)
 8. [Community Detection, part 2](assignment_communities_2)
 9. [Compartmental Epidemic Models](assignment_compartmental_epidemics)
+10. [Epidemics on Graphs](assignment_epidemics_on_graphs)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
