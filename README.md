@@ -4,7 +4,7 @@ This repository contains practical assignments for the Network Science course an
 ```
 # YOUR CODE HERE
 ```
-All notebooks contain test cells with `assert` statements that help you understand whether your code is correct or not.
+All notebooks contain test cells with `assert` statements that help you understand whether your code is correct.
 
 Topics:
 1. [Introduction to Network Science](assignment_intro)
