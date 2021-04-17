@@ -18,6 +18,7 @@ Topics:
 9. [Compartmental Epidemic Models](assignment_compartmental_epidemics)
 10. [Epidemics on Graphs](assignment_epidemics_on_graphs)
 11. [Node Classification](assignment_node_classification)
+12. [Link prediction](assignment_link_prediction)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
