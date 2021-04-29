@@ -20,6 +20,7 @@ Topics:
 11. [Node Classification](assignment_node_classification)
 12. [Link Prediction](assignment_link_prediction)
 13. [Node Embedding](assignment_node_embedding)
+14. [Graph Neural Networks](assignment_graph_neural_networks)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
