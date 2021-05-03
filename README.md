@@ -22,6 +22,10 @@ Topics:
 13. [Node Embedding](assignment_node_embedding/assignment.ipynb)
 14. [Graph Neural Networks](assignment_graph_neural_networks/assignment.ipynb)
 
+Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
+1. [Network Generation](competition_network_generation/competition.ipynb)
+2. [Link Prediction](competition_link_prediction/competition.ipynb)
+
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
 Youtube channel with records of lectures: https://youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
