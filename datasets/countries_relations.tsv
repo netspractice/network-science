@@ -1,0 +1,167 @@
+relationID	wikidataID	label
+0	P1344	participant of
+1	P1151	topic's main Wikimedia portal
+2	P1546	motto
+3	P5125	Wikimedia outline
+4	P38	currency
+5	P1792	category of associated people
+6	P2852	emergency phone number
+7	P2853	electrical plug type
+8	P2633	geography of topic
+9	P1313	office held by head of government
+10	P417	patron saint
+11	P17	country
+12	P2959	permanent duplicated item
+13	P122	basic form of government
+14	P1552	has quality
+15	P793	significant event
+16	P530	diplomatic relation
+17	P1906	office held by head of state
+18	P194	legislative body
+19	P2184	history of topic
+20	P37	official language
+21	P30	continent
+22	P36	capital
+23	P237	coat of arms
+24	P910	topic's main category
+25	P35	head of state
+26	P1791	category of people buried here
+27	P5008	on focus list of Wikimedia project
+28	P6	head of government
+29	P463	member of
+30	P5658	railway traffic side
+31	P1830	owner of
+32	P1740	category for films shot at this location
+33	P208	executive body
+34	P2238	official symbol
+35	P1465	category for people who died here
+36	P85	anthem
+37	P209	highest judicial authority
+38	P361	part of
+39	P78	top-level Internet domain
+40	P47	shares border with
+41	P31	instance of
+42	P610	highest point
+43	P1464	category for people born here
+44	P1622	driving side
+45	P421	located in time zone
+46	P150	contains administrative territorial entity
+47	P138	named after
+48	P163	flag
+49	P1343	described by source
+50	P92	main regulatory text
+51	P6104	maintained by WikiProject
+52	P527	has part
+53	P1304	central bank
+54	P2936	language used
+55	P2596	culture
+56	P7867	category for maps
+57	P832	public holiday
+58	P155	follows
+59	P1589	lowest point
+60	P706	located on terrain feature
+61	P1365	replaces
+62	P1336	territory claimed by
+63	P1424	topic's main template
+64	P172	ethnic group
+65	P1889	different from
+66	P112	founded by
+67	P740	location of formation
+68	P460	said to be the same as
+69	P206	located in or next to body of water
+70	P485	archives at
+71	P3403	coextensive with
+72	P4614	drainage basin
+73	P166	award received
+74	P140	religion
+75	P2746	production statistics
+76	P457	foundational text
+77	P276	location
+78	P1456	list of monuments
+79	P190	twinned administrative body
+80	P131	located in the administrative territorial entity
+81	P1376	capital of
+82	P61	discoverer or inventor
+83	P1366	replaced by
+84	P156	followed by
+85	P1142	political ideology
+86	P3075	official religion
+87	P2579	studied by
+88	P868	foods traditionally associated
+89	P7888	merged into
+90	P1269	facet of
+91	P6379	has works in the collection
+92	P279	subclass of
+93	P1001	applies to jurisdiction
+94	P2388	office held by head of the organization
+95	P2348	time period
+96	P607	conflict
+97	P1479	has contributing factor
+98	P360	is a list of
+99	P53	family
+100	P3179	territory overlaps
+101	P1382	partially coincident with
+102	P807	separated from
+103	P159	headquarters location
+104	P1383	contains settlement
+105	P1534	end cause
+106	P1412	languages spoken, written or signed
+107	P1435	heritage designation
+108	P355	subsidiary
+109	P488	chairperson
+110	P3461	designated as terrorist by
+111	P2813	house publication
+112	P6365	member category
+113	P941	inspired by
+114	P7047	enemy of
+115	P127	owned by
+116	P3842	located in present-day administrative territorial entity
+117	P770	cause of destruction
+118	P828	has cause
+119	P418	seal description
+120	P1441	present in work
+121	P2354	has list
+122	P2872	tourist office
+123	P2614	World Heritage criteria
+124	P797	authority
+125	P726	candidate
+126	P3342	significant person
+127	P1299	depicted by
+128	P461	opposite of
+129	P734	family name
+130	P2670	has parts of the class
+131	P103	native language
+132	P199	business division
+133	P800	notable works
+134	P50	author
+135	P921	main subject
+136	P407	language of work or name
+137	P495	country of origin
+138	P6216	copyright status
+139	P747	has edition
+140	P3415	start period
+141	P27	country of citizenship
+142	P682	biological process
+143	P710	participant
+144	P2564	Köppen climate classification
+145	P1433	published in
+146	P263	official residence
+147	P84	architect
+148	P282	writing system
+149	P7938	associated electoral district
+150	P466	occupant
+151	P2937	parliamentary term
+152	P4195	category for employees of the organization
+153	P2517	category for recipients of this award
+154	P1754	category related to list
+155	P1891	signatory
+156	P2283	uses
+157	P2964	right to vote
+158	P501	enclave within
+159	P7378	item disputed by
+160	P3680	statement supported by
+161	P1264	valid in period
+162	P912	has facility
+163	P3416	end period
+164	P4330	contains
+165	P106	occupation
