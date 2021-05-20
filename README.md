@@ -21,7 +21,8 @@ Topics:
 12. [Link Prediction](assignment_link_prediction/assignment.ipynb)
 13. [Node Embedding](assignment_node_embedding/assignment.ipynb)
 14. [Graph Neural Networks](assignment_graph_neural_networks/assignment.ipynb)
-15. [Influence Propagation and Agent Based Models](assignment_influence_agents/assignment.ipynb)
+15. [Influence Propagation](assignment_influence_agents/assignment.ipynb)
+16. [Knowledge Graph Embedding](assignment_knowledge_graph_embeddings/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
