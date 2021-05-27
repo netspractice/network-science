@@ -27,6 +27,7 @@ Topics:
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
 2. [Link Prediction](competition_link_prediction/competition.ipynb)
+3. [Marketing Campaign](competition_marketing_campaign/competition.ipynb)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
