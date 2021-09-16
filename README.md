@@ -1,6 +1,6 @@
 # Practical Assignments for Network Science
 
-This repository contains practical assignments for courses "Network Science" and "Structural Analysis and Visualization of Networks" at HSE university. All assignments are presented as Jupyter notebooks, that can be done by writing code instead of the line 
+This repository contains practical assignments on network analysis. All assignments are presented as Jupyter notebooks, that can be done by writing code instead of the line 
 ```
 # YOUR CODE HERE
 ```
