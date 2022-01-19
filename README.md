@@ -7,7 +7,7 @@ This repository contains practical assignments on network analysis. All assignme
 All notebooks contain test cells with `assert` statements that help you understand whether your code is correct.
 
 Topics:
-1. [Introduction to Network Science](assignment_intro/assignment.ipynb)
+1. [Introduction to network science and power law](assignment_intro_power_law/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. TBA
