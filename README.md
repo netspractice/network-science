@@ -12,4 +12,4 @@ Topics:
 3. [Node centrality measures](assignment_centrality/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
-1. TBA
+1. [Network Generation](competition_network_generation/competition.ipynb)
