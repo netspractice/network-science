@@ -10,6 +10,7 @@ Topics:
 1. [Introduction to Network Science](assignment_intro/assignment.ipynb)
 2. [Power law and scale-free networks](assignment_power_law/assignment.ipynb)
 3. [Random graphs](assignment_random_graphs/assignment.ipynb)
+4. [Generative network models](assignment_gen_models/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. TBA
