@@ -10,6 +10,7 @@ Topics:
 1. [Introduction to network science and power law](assignment_intro_power_law/assignment.ipynb)
 2. [Generative network models](assignment_gen_models/assignment.ipynb)
 3. [Node centrality measures](assignment_centrality/assignment.ipynb)
+4. [Link analysis and structure properties](assignment_link_analysis/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
