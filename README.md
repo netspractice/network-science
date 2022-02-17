@@ -11,7 +11,7 @@ Topics:
 2. [Generative network models](assignment_gen_models/assignment.ipynb)
 3. [Node centrality measures](assignment_centrality/assignment.ipynb)
 4. [Link analysis and structure properties](assignment_link_analysis/assignment.ipynb)
-5. [Community detetction](assignment_community_detection/assignment.ipynb)
+5. [Community detection](assignment_community_detection/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
