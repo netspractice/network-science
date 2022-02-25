@@ -11,9 +11,10 @@ Topics:
 2. [Power law and scale-free networks](assignment_power_law/assignment.ipynb)
 3. [Random graphs](assignment_random_graphs/assignment.ipynb)
 4. [Generative network models](assignment_gen_models/assignment.ipynb)
+5. [Node centrality measures](assignment_centrality/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
-1. TBA
+1. [Network generation](competition_network_generation/competition.ipynb)
 
 Lecture materials: http://leonidzhukov.net/hse/2022/networkscience/
 
