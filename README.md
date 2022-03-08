@@ -13,8 +13,10 @@ Topics:
 4. [Generative network models](assignment_gen_models/assignment.ipynb)
 5. [Node centrality measures](assignment_centrality/assignment.ipynb)
 6. [Structural properties](assignment_structural_properties/assignment.ipynb)
+7. [Graph partitioning](assignment_graph_partitioning/assignment.ipynb)
+8. [Network communities](assignment_network_communities/assignment.ipynb)
 
-Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
+Here are also descriptions of competitions held among students to solve practical tasks on graphs:
 1. [Network generation](competition_network_generation/competition.ipynb)
 
 Lecture materials: http://leonidzhukov.net/hse/2022/networkscience/
