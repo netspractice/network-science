@@ -12,6 +12,9 @@ Topics:
 3. [Node centrality measures](assignment_centrality/assignment.ipynb)
 4. [Link analysis and structure properties](assignment_link_analysis/assignment.ipynb)
 5. [Community detection](assignment_community_detection/assignment.ipynb)
+6. [Diffusions and epidemics on network](assignment_diffusions_epidemics/assignment.ipynb)
+7. [Node classification](assignment_node_classification/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
+2. [Marketing campaign](competition_marketing_campaign/competition.ipynb)
