@@ -14,6 +14,8 @@ Topics:
 5. [Community detection](assignment_community_detection/assignment.ipynb)
 6. [Diffusions and epidemics on network](assignment_diffusions_epidemics/assignment.ipynb)
 7. [Node classification](assignment_node_classification/assignment.ipynb)
+8. [Link prediction](assignment_link_prediction/assignment.ipynb)
+9. [Node embedding](assignment_node_embedding/assignment.ipynb)
 
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. [Network Generation](competition_network_generation/competition.ipynb)
