@@ -16,9 +16,11 @@ Topics:
 7. [Graph partitioning](assignment_graph_partitioning/assignment.ipynb)
 8. [Network communities](assignment_network_communities/assignment.ipynb)
 9. [Epidemic models](assignment_epidemic_models/assignment.ipynb)
+10. [Cascades and influence maximization](assignment_cascades_influence/assignment.ipynb)
 
 Here are also descriptions of competitions held among students to solve practical tasks on graphs:
 1. [Network generation](competition_network_generation/competition.ipynb)
+2. Marketing campaign
 
 Lecture materials: http://leonidzhukov.net/hse/2022/networkscience/
 
