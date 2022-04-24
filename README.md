@@ -17,6 +17,8 @@ Topics:
 8. [Network communities](assignment_network_communities/assignment.ipynb)
 9. [Epidemic models](assignment_epidemic_models/assignment.ipynb)
 10. [Cascades and influence maximization](assignment_cascades_influence/assignment.ipynb)
+11. [Node classification](assignment_node_classification/assignment.ipynb)
+12. [Link prediction](assignment_link_prediction/assignment.ipynb)
 
 Here are also descriptions of competitions held among students to solve practical tasks on graphs:
 1. [Network generation](competition_network_generation/competition.ipynb)
