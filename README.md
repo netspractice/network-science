@@ -20,6 +20,7 @@ Topics:
 11. [Node Classification](assignment_node_classification/assignment.ipynb)
 12. [Link Prediction](assignment_link_prediction/assignment.ipynb)
 13. [Node Embedding](assignment_node_embedding/assignment.ipynb)
+14. [Graph neural networks](assignment_gnn/assignment.ipynb)
 
 Lecture materials: http://leonidzhukov.net/hse/2021/networkscience/
 
