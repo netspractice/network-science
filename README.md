@@ -8,3 +8,7 @@ All notebooks contain test cells with `assert` statements that help you understa
 
 Topics:
 1. [Introduction to network science](assignment_01_intro/assignment.ipynb)
+2. [Power law and scale-free networks](assignment_02_power_law/assignment.ipynb)
+3. [Centrality measures](assignment_03_centralities/assignment.ipynb)
+4. [Network communities](assignment_04_communities/assignment.ipynb)
+5. [Graph embeddings](assignment_05_graph_embeddings/assignment.ipynb)
