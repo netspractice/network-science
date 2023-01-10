@@ -12,6 +12,6 @@ Topics:
 Here are also descriptions of some competitions held among students to solve practical tasks on graphs:
 1. TBA
 
-Lecture materials: http://leonidzhukov.net/hse/2022/networkscience/
+Lecture materials: http://leonidzhukov.net/hse/2023/networkscience/
 
 Youtube channel with records of lectures: https://youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
