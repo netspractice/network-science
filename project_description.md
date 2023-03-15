@@ -20,7 +20,7 @@ Submit following files:
 3. Source code with comments in pdf format 
 4. Additional data, if needed
 
-Deadline for submission is **April 8, 23:59**. All the files should be send to **networksciencecourse@gmail.com** with the topic: [HSE NS 2022] Surname Name SN Project. For example:
+Deadline for submission is **April 30, 23:59**. All the files should be send to **networksciencecourse@gmail.com** with the topic: [HSE NS 2022] Surname Name SN Project. For example:
 
 > Topic: [HSE NS 2022] Ivan Petrov SN Project
 > 
