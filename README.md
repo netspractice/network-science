@@ -28,6 +28,6 @@ Here are also descriptions of competitions held among students to solve practica
 2. Marketing campaign
 3. Link prediction
 
-Lecture materials: http://leonidzhukov.net/hse/2022/networkscience/
+Lecture materials: http://leonidzhukov.net/hse/2023/networkscience/
 
 Youtube channel with records of lectures: https://youtube.com/playlist?list=PLriUvS7IljvkGesFRuYjqRz4lKgodJgh2
